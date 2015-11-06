@@ -3,6 +3,7 @@
 void setup () {
   size(640,480) ;  // must use this size.
   // your code
+  background(0);
 }
 
 void draw() {
